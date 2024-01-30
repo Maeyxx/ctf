@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  app:
+    container_name: vuejs_app
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    depends_on:
+      - api
+
+  api:
+    container_name: express_api
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongo
+    environment:
+      MONGO_URI: mongodb://mongo:27017/maBaseDeDonnees
+
+  mongo:
+    container_name: mongodb
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./mongodb/init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js
+      - ./mongodb:/ctf/mongodb
+    environment:
+      MONGO_INITDB_DATABASE: maBaseDeDonnees
+    command: >
+      bash -c " docker-entrypoint.sh mongod & sleep 10; mongoimport --uri 'mongodb://localhost:27017/maBaseDeDonnees' --collection ctf --file /ctf/mongodb/maBaseDeDonnees.ctf.json --jsonArray; mongoimport --uri 'mongodb://localhost:27017/maBaseDeDonnees' --collection products --file /ctf/mongodb/maBaseDeDonnees.products.json --jsonArray; mongoimport --uri 'mongodb://localhost:27017/maBaseDeDonnees' --collection sales --file /ctf/mongodb/maBaseDeDonnees.sales.json --jsonArray; mongoimport --uri 'mongodb://localhost:27017/maBaseDeDonnees' --collection users --file /ctf/mongodb/maBaseDeDonnees.users.json --jsonArray; mongoimport --uri 'mongodb://localhost:27017/maBaseDeDonnees' --collection users_informations --file /ctf/mongodb/maBaseDeDonnees.users_informations.json --jsonArray; wait; "
+volumes:
+  mongodb_data:

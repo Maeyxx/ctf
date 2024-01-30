@@ -1,0 +1,608 @@
+[{
+  "_id": {
+    "$oid": "65b777ac69eb3e68e5f4dea4"
+  },
+  "userId": {
+    "$oid": "65b777ac69eb3e68e5f4dea2"
+  },
+  "username": "prou",
+  "firstname": "roro",
+  "lastname": "toto",
+  "email": "example@gmail.com",
+  "phone": "0123456789",
+  "address": "1 rue de la paix",
+  "postalcode": "75000",
+  "city": "Paris",
+  "country": "France",
+  "isAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d242e5fc81e84d42853"
+  },
+  "userId": {
+    "$oid": "65b80d242e5fc81e84d42851"
+  },
+  "username": "Murray_Cartwright82",
+  "firstname": "Letitia",
+  "lastname": "Weber",
+  "email": "Murray_Cartwright8256@lyceedelasalle.fr",
+  "phone": "758-455-1549 x20719",
+  "address": "9723 Funk Prairie",
+  "postalcode": "38162",
+  "city": "Freddieport",
+  "country": "Costa Rica",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d242e5fc81e84d42857"
+  },
+  "userId": {
+    "$oid": "65b80d242e5fc81e84d42855"
+  },
+  "username": "Cyrus.Schaefer43",
+  "firstname": "Turner",
+  "lastname": "Gottlieb",
+  "email": "Cyrus.Schaefer4374@lyceedelasalle.fr",
+  "phone": "673.871.7069 x11171",
+  "address": "97398 Victoria Common",
+  "postalcode": "25663-3514",
+  "city": "Bartelltown",
+  "country": "Albania",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d242e5fc81e84d4285b"
+  },
+  "userId": {
+    "$oid": "65b80d242e5fc81e84d42859"
+  },
+  "username": "Bonita25",
+  "firstname": "Eliseo",
+  "lastname": "Marquardt",
+  "email": "Bonita25.VonRueden@lyceedelasalle.fr",
+  "phone": "(418) 546-3165 x36505",
+  "address": "559 Monserrate Crest",
+  "postalcode": "77757-6993",
+  "city": "Connellycester",
+  "country": "Czechia",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d242e5fc81e84d4285f"
+  },
+  "userId": {
+    "$oid": "65b80d242e5fc81e84d4285d"
+  },
+  "username": "Faye46",
+  "firstname": "Anna",
+  "lastname": "Franecki",
+  "email": "Faye4645@lyceedelasalle.fr",
+  "phone": "1-654-384-4568 x251",
+  "address": "27000 Garden Street",
+  "postalcode": "52196-0717",
+  "city": "New Aditya",
+  "country": "Jordan",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d242e5fc81e84d42863"
+  },
+  "userId": {
+    "$oid": "65b80d242e5fc81e84d42861"
+  },
+  "username": "Kamren_Renner41",
+  "firstname": "Ethyl",
+  "lastname": "Quigley",
+  "email": "Kamren_Renner4129@lyceedelasalle.fr",
+  "phone": "1-219-287-9149 x30539",
+  "address": "890 E Central Avenue",
+  "postalcode": "80654-1695",
+  "city": "Ivahside",
+  "country": "Kyrgyz Republic",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d42867"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42865"
+  },
+  "username": "Mathew.Abshire-McDermott38",
+  "firstname": "Laney",
+  "lastname": "Klocko",
+  "email": "Mathew.Abshire-McDermott38_Kris56@lyceedelasalle.fr",
+  "phone": "1-421-592-3207 x07005",
+  "address": "32102 Schroeder Radial",
+  "postalcode": "42836",
+  "city": "Port Lorena",
+  "country": "Mayotte",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d4286b"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42869"
+  },
+  "username": "Giovanna.Emmerich",
+  "firstname": "Mia",
+  "lastname": "Mohr",
+  "email": "Giovanna.Emmerich6@lyceedelasalle.fr",
+  "phone": "703.435.7227 x1046",
+  "address": "30637 Electa Estate",
+  "postalcode": "21327-0982",
+  "city": "Axelmouth",
+  "country": "Iraq",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d4286f"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d4286d"
+  },
+  "username": "Casper18",
+  "firstname": "Queenie",
+  "lastname": "Huels",
+  "email": "Casper1886@lyceedelasalle.fr",
+  "phone": "669.564.1956 x1542",
+  "address": "62683 Market Place",
+  "postalcode": "00914",
+  "city": "Urbandale",
+  "country": "Gibraltar",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d42873"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42871"
+  },
+  "username": "Kendall68",
+  "firstname": "Domenico",
+  "lastname": "Kohler",
+  "email": "Kendall68_Nikolaus72@lyceedelasalle.fr",
+  "phone": "1-902-420-8340 x25331",
+  "address": "4414 Brice Stream",
+  "postalcode": "70030-4483",
+  "city": "Silaschester",
+  "country": "Peru",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d42877"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42875"
+  },
+  "username": "Reina_Flatley0",
+  "firstname": "Declan",
+  "lastname": "Goldner",
+  "email": "Reina_Flatley0.Walter87@lyceedelasalle.fr",
+  "phone": "1-545-701-5962 x692",
+  "address": "56596 Kurtis Highway",
+  "postalcode": "53352",
+  "city": "West Dorothy",
+  "country": "Cuba",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d4287b"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42879"
+  },
+  "username": "Aron39",
+  "firstname": "Tanner",
+  "lastname": "Dicki",
+  "email": "Aron390@lyceedelasalle.fr",
+  "phone": "1-584-247-5806 x4829",
+  "address": "18582 4th Avenue",
+  "postalcode": "69994-1494",
+  "city": "Abetown",
+  "country": "Turks and Caicos Islands",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d4287f"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d4287d"
+  },
+  "username": "Crystel_Dare2",
+  "firstname": "Chase",
+  "lastname": "Kulas",
+  "email": "Crystel_Dare2.Swaniawski@lyceedelasalle.fr",
+  "phone": "1-463-920-4145",
+  "address": "806 Upton Plain",
+  "postalcode": "72265-5814",
+  "city": "Bowie",
+  "country": "Somalia",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d42883"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42881"
+  },
+  "username": "Mireille.Boyer-Schoen40",
+  "firstname": "Torrance",
+  "lastname": "Hilll",
+  "email": "Mireille.Boyer-Schoen40.Kutch44@lyceedelasalle.fr",
+  "phone": "1-535-790-6679",
+  "address": "7496 Howell Circles",
+  "postalcode": "62245-0307",
+  "city": "Klinghaven",
+  "country": "Cote d'Ivoire",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d42887"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42885"
+  },
+  "username": "Greyson_Stroman59",
+  "firstname": "Stanford",
+  "lastname": "Larson",
+  "email": "Greyson_Stroman59_Toy@lyceedelasalle.fr",
+  "phone": "(336) 897-6989 x56859",
+  "address": "921 Camren Rapids",
+  "postalcode": "67786-5864",
+  "city": "East Doris",
+  "country": "Spain",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d4288b"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42889"
+  },
+  "username": "Flo13",
+  "firstname": "Andreanne",
+  "lastname": "Senger",
+  "email": "Flo13.Tillman60@lyceedelasalle.fr",
+  "phone": "(482) 825-4571 x7809",
+  "address": "1306 Angel Hill",
+  "postalcode": "40177-1794",
+  "city": "South Donnacester",
+  "country": "Indonesia",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d4288f"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d4288d"
+  },
+  "username": "Reginald.Barton86",
+  "firstname": "Jaylon",
+  "lastname": "Wolf",
+  "email": "Reginald.Barton8612@lyceedelasalle.fr",
+  "phone": "(314) 594-8377 x0892",
+  "address": "619 Dominic Divide",
+  "postalcode": "38508-6868",
+  "city": "Sonyaside",
+  "country": "Senegal",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d42893"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42891"
+  },
+  "username": "Ryann13",
+  "firstname": "Kailyn",
+  "lastname": "Toy",
+  "email": "Ryann13_Murray34@lyceedelasalle.fr",
+  "phone": "1-843-631-6366 x85696",
+  "address": "65888 Church Road",
+  "postalcode": "14101",
+  "city": "Fort Elliottbury",
+  "country": "Benin",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d42897"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42895"
+  },
+  "username": "Selina_Lemke27",
+  "firstname": "Dexter",
+  "lastname": "Kub",
+  "email": "Selina_Lemke27_Strosin82@lyceedelasalle.fr",
+  "phone": "(852) 332-1920 x9450",
+  "address": "798 Cambridge Street",
+  "postalcode": "47815",
+  "city": "Eileencester",
+  "country": "Svalbard & Jan Mayen Islands",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d252e5fc81e84d4289b"
+  },
+  "userId": {
+    "$oid": "65b80d252e5fc81e84d42899"
+  },
+  "username": "Sydnee.Keebler",
+  "firstname": "Quinton",
+  "lastname": "Collins",
+  "email": "Sydnee.Keebler.Gislason-Schulist@lyceedelasalle.fr",
+  "phone": "(980) 485-5795",
+  "address": "94178 Adalberto Lane",
+  "postalcode": "30635-3285",
+  "city": "Port Humbertoport",
+  "country": "Cuba",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b80d262e5fc81e84d4289f"
+  },
+  "userId": {
+    "$oid": "65b80d262e5fc81e84d4289d"
+  },
+  "username": "Preston25",
+  "firstname": "Elouise",
+  "lastname": "Walsh",
+  "email": "Preston25_Leffler@lyceedelasalle.fr",
+  "phone": "1-890-661-5291",
+  "address": "851 Gerry Trafficway",
+  "postalcode": "20961-3399",
+  "city": "East Destany",
+  "country": "Reunion",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8165a059d0f00645c9d36"
+  },
+  "userId": {
+    "$oid": "65b8165a059d0f00645c9d34"
+  },
+  "username": "MAeyx",
+  "firstname": "Jared",
+  "lastname": "Larson",
+  "email": "Dave68@gmail.com",
+  "phone": "(594) 269-4784 x7036",
+  "address": "42549 Max Junction",
+  "postalcode": "63027-1542",
+  "city": "Goodwinmouth",
+  "country": "Nepal",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b816f521544a40daa4d313"
+  },
+  "userId": {
+    "$oid": "65b816f521544a40daa4d311"
+  },
+  "username": "Maeyx",
+  "firstname": "Bailey",
+  "lastname": "Beer",
+  "email": "Magdalen50@gmail.com",
+  "phone": "736.258.9645 x08487",
+  "address": "763 Raynor Walks",
+  "postalcode": "29490-5058",
+  "city": "Lake Elsa",
+  "country": "Romania",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b81b5121544a40daa4d3a7"
+  },
+  "userId": {
+    "$oid": "65b81b5121544a40daa4d3a5"
+  },
+  "username": "test",
+  "firstname": "Jacklyn",
+  "lastname": "Weber",
+  "email": "Hulda_Nader@lyceedelasalle.fr",
+  "phone": "1-281-204-8030 x33583",
+  "address": "62395 Ozella Mills",
+  "postalcode": "69023",
+  "city": "South Anikabury",
+  "country": "Timor-Leste",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b820a621544a40daa4d48f"
+  },
+  "userId": {
+    "$oid": "65b820a621544a40daa4d48d"
+  },
+  "username": "Katelyn.Gerlach60",
+  "firstname": "Katelyn",
+  "lastname": "Gerlach60",
+  "email": "Katelyn_Gerlach60@lyceedelasalle.fr",
+  "phone": "CTF-DLS{H3ll0_M07g0!}",
+  "address": "4589 Leann Park",
+  "postalcode": "72117-3930",
+  "city": "West Rahul",
+  "country": "Iceland",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b820ce21544a40daa4d49c"
+  },
+  "userId": {
+    "$oid": "65b820ce21544a40daa4d49a"
+  },
+  "username": "lol",
+  "firstname": "Frederic",
+  "lastname": "Kling",
+  "email": "Queen_Carroll@lyceedelasalle.fr",
+  "phone": "1-514-925-0207 x40230",
+  "address": "7967 Dooley Burgs",
+  "postalcode": "26746",
+  "city": "Camarillo",
+  "country": "Saint Vincent and the Grenadines",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b821fc21544a40daa4d4ac"
+  },
+  "userId": {
+    "$oid": "65b821fc21544a40daa4d4aa"
+  },
+  "username": "jean",
+  "firstname": "Colton",
+  "lastname": "Bode",
+  "email": "Merle_Lubowitz@lyceedelasalle.fr",
+  "phone": "396-911-1003 x63224",
+  "address": "2528 Schimmel Orchard",
+  "postalcode": "25732-9368",
+  "city": "Royal Oak",
+  "country": "Japan",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8220e21544a40daa4d4b0"
+  },
+  "userId": {
+    "$oid": "65b8220e21544a40daa4d4ae"
+  },
+  "username": "toto",
+  "firstname": "Catalina",
+  "lastname": "Mohr",
+  "email": "Pearl14@lyceedelasalle.fr",
+  "phone": "899.549.5360",
+  "address": "3901 Veum Plaza",
+  "postalcode": "01460",
+  "city": "South Cordell",
+  "country": "French Guiana",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8221821544a40daa4d4b4"
+  },
+  "userId": {
+    "$oid": "65b8221821544a40daa4d4b2"
+  },
+  "username": "re",
+  "firstname": "Reese",
+  "lastname": "Stroman",
+  "email": "Dylan82@lyceedelasalle.fr",
+  "phone": "907.983.3613",
+  "address": "6075 Sylvan Spur",
+  "postalcode": "37122",
+  "city": "Skilesborough",
+  "country": "Montserrat",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8222321544a40daa4d4b8"
+  },
+  "userId": {
+    "$oid": "65b8222321544a40daa4d4b6"
+  },
+  "username": "fre",
+  "firstname": "Shannon",
+  "lastname": "Wyman",
+  "email": "Gillian72@lyceedelasalle.fr",
+  "phone": "(925) 950-3744 x58650",
+  "address": "75041 Hills Groves",
+  "postalcode": "48559",
+  "city": "Shanonside",
+  "country": "Mongolia",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8b352dd617124f2975b91"
+  },
+  "userId": {
+    "$oid": "65b8b352dd617124f2975b8f"
+  },
+  "username": "karim",
+  "firstname": "Charlene",
+  "lastname": "Tillman",
+  "email": "Ardella_Monahan8@lyceedelasalle.fr",
+  "phone": "876.770.6715 x9791",
+  "address": "919 N Front Street",
+  "postalcode": "07426",
+  "city": "Ninafield",
+  "country": "China",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8b3c9dd617124f2975ba4"
+  },
+  "userId": {
+    "$oid": "65b8b3c9dd617124f2975ba2"
+  },
+  "username": "bizi",
+  "firstname": "Tanner",
+  "lastname": "Schumm",
+  "email": "Murl_Johnson-Hills@lyceedelasalle.fr",
+  "phone": "(533) 486-7129 x58413",
+  "address": "63384 Murray Pine",
+  "postalcode": "16000-0271",
+  "city": "Spencerland",
+  "country": "Pakistan",
+  "isAdmin": false,
+  "__v": 0
+}]
