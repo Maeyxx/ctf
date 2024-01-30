@@ -32,12 +32,18 @@ VUE_APP_API_BASE_URL=http://<API_URL>:<API_PORT>
 
 ```
 
-Go in the /app folder
+Go in the /app folder and download dependencies
+```
+npm i
+```
 ```
 npm run serve
 ```
 
-Go in the /api folder
+Go in the /api folder and download dependencies
+```
+npm i
+```
 ```
 node .\server.js
 ```
